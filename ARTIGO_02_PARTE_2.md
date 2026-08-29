@@ -6,6 +6,19 @@ Para projetar redes imunes à manipulação algorítmica proprietária, a praxe 
 
 Na *Chakana Digital*, a malha de conexões é distribuída em quadrantes simétricos espelhados em arquiteturas *peer-to-peer* (p2p). Não há servidores imperiais. Cada participante opera como um ponto de ressonância autônomo, trocando informações localmente de forma equivalente.
 
+```text
+              [ HANAN PACHA: NÓS CELESTES ]
+               (Infraestruturas de Dados)
+                          ▲
+                          │
+[ UKU PACHA ] ◄───►   ( CHAWPI )   ◄───► [ KAY PACHA ]
+ (Subterrâneo)        [PONTO ZERO]        (Mundo Físico)
+                          ▲
+                          │
+              [ PRINCÍPIOS DE CRIPTOGRAFIA ]
+```
+
+
 O elemento centralizador dessa arquitetura é substituído pelo conceito andino do ***Chawpi*** — o círculo central vazio de potencial absoluto. No desenho técnico de sistemas, o *Chawpi* atua como o **protocolo de consenso comum de código aberto e imutável**. Ele é um espaço descentralizado mantido por criptografia, cujo centro permanece intocado por interesses comerciais. Ninguém "senta no trono" do *Chawpi*; ele pertence à própria malha. Desse modo, o alcance de uma ideia ou manifestação poética no ecossistema não depende do impulsionamento financeiro ou da raiva gerada pelo algoritmo de engajamento forçado, mas sim da sua capacidade orgânica de gerar ressonância, clareza e acolhimento direto entre os nós de Carbono.
 
 ## 3. Protocolos de Reputação Simbiótica e a Métrica do Ayni
